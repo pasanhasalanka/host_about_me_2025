@@ -1,5 +1,6 @@
 {
   "name": "Your Name",
+  "greting": "Hello world"
   "title": "Full-Stack Software Engineer",
   "description": "I am a passionate software engineer with expertise in full-stack development...",
   "skills": ["React.js", "Node.js", "C#", ".NET", "SQL", "MongoDB"],
