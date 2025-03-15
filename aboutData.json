@@ -1,0 +1,25 @@
+{
+  "name": "Your Name",
+  "title": "Full-Stack Software Engineer",
+  "description": "I am a passionate software engineer with expertise in full-stack development...",
+  "skills": ["React.js", "Node.js", "C#", ".NET", "SQL", "MongoDB"],
+  "experience": [
+    {
+      "company": "Your Current Company",
+      "role": "Full-Stack Developer",
+      "duration": "202X - Present",
+      "description": "Working on SAAS applications and full-stack solutions."
+    }
+  ],
+  "education": {
+    "degree": "BSc (Hons) in Information Technology",
+    "institution": "SLIIT",
+    "year": "2024"
+  },
+  "hobbies": ["Building FPV drones", "Tinkering with IoT", "Automating systems"],
+  "contact": {
+    "email": "your.email@example.com",
+    "linkedin": "https://linkedin.com/in/yourprofile",
+    "github": "https://github.com/yourusername"
+  }
+}
